@@ -1,0 +1,6 @@
+- Umit Yigit Basaran / 21704103 / CS342 Project 2
+- The thread id is started from 1.
+- The burst id is given to the nodes based on their threads and its starts from 1.
+- For the file modes, files should be started with 1 (for example; test-1.txt, test-2.txt ...)
+- The output of the program contains the status (insertion and selection) in runtime. Also it prints the average waiting values for each thread and average of these average waiting values at the end of the program. The status lines are synchronized.
+- With the make command you could compile the code. make clean command deletes the compiled exection files (it removes the files which does not contain '.' except Makefile).
